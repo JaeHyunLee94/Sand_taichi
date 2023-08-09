@@ -1,4 +1,4 @@
 venv/
-*.ini/
+*.ini
 __pycache__/
 .idea/
